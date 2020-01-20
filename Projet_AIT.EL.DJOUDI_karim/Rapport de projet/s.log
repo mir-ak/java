@@ -1,0 +1,69 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.12.13)  15 JAN 2020 22:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**s
+(/usr/share/texlive/texmf-dist/tex/latex/tools/s.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+File ignored
+)
+*s
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+<*> s
+     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no s in font nullfont!
+
+*R
+Missing character: There is no R in font nullfont!
+
+*R
+Missing character: There is no R in font nullfont!
+
+*rapport
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+
+*q
+Missing character: There is no q in font nullfont!
+
+*
+! Interruption.
+<*> 
+    
+? R
+OK, entering \nonstopmode...
+
+Overfull \hbox (20.0pt too wide) detected at line 0
+[]
+ []
+
+! Emergency stop.
+<*> 
+    
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 494923
+ 246 string characters out of 6180741
+ 45874 words of memory out of 5000000
+ 3421 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 5i,0n,4p,81b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
